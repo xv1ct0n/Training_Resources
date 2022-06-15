@@ -16,4 +16,6 @@ https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatshee
 https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/training/cyber-security-certifications  
 
 ## Needs Sorting
-- https://static.rainfocus.com/splunk/splunkconf18/sess/1522696002986001hj1a/finalPDF/Simulating-the-Adversary-Test-1244_1538791048709001YJnK.pdf  
+- https://static.rainfocus.com/splunk/splunkconf18/sess/1522696002986001hj1a/finalPDF/Simulating-the-Adversary-Test-1244_1538791048709001YJnK.pdf 
+- https://github.com/0x4D31/awesome-threat-detection 
+- https://github.com/guardicore/monkey 
