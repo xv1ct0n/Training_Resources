@@ -1,8 +1,9 @@
 # Training_Resources
 Trainng Resources
-## Cheatsheets
+## Cheatsheets / "Read-The-Docs"
 - Zeek Log Cheatsheets (CoreLight) 
 https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatsheets-2.6.pdf  
+- Zeek Docs https://docs.zeek.org/en/master/about.html 
 
 ## (Free) Training)
 - (OLD) Security Onion Essentials [Security Onion Essentials](https://www.youtube.com/playlist?list=PLljFlTO9rB155aYBjHw2InKkSMLuhWpxH) 
