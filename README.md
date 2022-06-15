@@ -15,7 +15,7 @@ https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatshee
 
 ## (Free) Training)
 - (OLD) Security Onion Essentials [Security Onion Essentials](https://www.youtube.com/playlist?list=PLljFlTO9rB155aYBjHw2InKkSMLuhWpxH) 
-
+- Chris Greer Network/Cyber Training: https://www.youtube.com/c/chrisgreer
 ## (PAID) Training
 
 ## Resource Repo's
