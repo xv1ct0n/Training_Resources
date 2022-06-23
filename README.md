@@ -16,7 +16,7 @@ https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatshee
 - [Security Onion 2.3 Doc's](https://docs.securityonion.net/en/2.3/introduction.html)
 
 ## (Arkime)Cheatsheets / "Read-The-Docs"
-
+- [Arkime Docs (Learn)](https://arkime.com/learn)
 
 ## (Free) Training
 - (OLD) [Security Onion Essentials](https://www.youtube.com/playlist?list=PLljFlTO9rB155aYBjHw2InKkSMLuhWpxH)
@@ -26,7 +26,7 @@ https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatshee
 
 
 ## (PAID) Training
-- [Cloud-Guru](https://acloudguru.com) - Online traning courses (Linux, Cloud, Pentest, etc.)
+- [Cloud-Guru](https://acloudguru.com) - Online traning courses (Linux, Cloud, Pentest, Ansible, Elastic, etc.)
 - [HackTheBox (HTB)](https://hackthebox.com) - CTF style Training (Pentesting)
 - 
 
