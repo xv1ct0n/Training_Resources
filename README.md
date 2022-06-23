@@ -2,8 +2,7 @@
 Trainng Resources
 
 ## (Zeek)Cheatsheets / "Read-The-Docs"
-- [Zeek Log Cheatsheets (CoreLight)]
-(https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatsheets-2.6.pdf)
+- [Zeek Log Cheatsheets (CoreLight)](https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatsheets-2.6.pdf)
 - [Zeek Docs](https://docs.zeek.org/en/master/about.html)
 
 
