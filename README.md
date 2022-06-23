@@ -2,9 +2,9 @@
 Trainng Resources
 
 ## (Zeek)Cheatsheets / "Read-The-Docs"
-- Zeek Log Cheatsheets (CoreLight)
-https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatsheets-2.6.pdf  
-- Zeek Docs https://docs.zeek.org/en/master/about.html
+- [Zeek Log Cheatsheets (CoreLight)]
+(https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatsheets-2.6.pdf)
+- [Zeek Docs](https://docs.zeek.org/en/master/about.html)
 
 
 ## (Splunk)Docs / Training & Reference
@@ -20,7 +20,7 @@ https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatshee
 
 ## (Free) Training
 - (OLD) [Security Onion Essentials](https://www.youtube.com/playlist?list=PLljFlTO9rB155aYBjHw2InKkSMLuhWpxH)
-- Chris Greer Network/Cyber Training: https://www.youtube.com/c/chrisgreer
+- [Chris Greer Network/Cyber Training](https://www.youtube.com/c/chrisgreer)
 - [CyberDefenders](https://cyberdefenders.org/)
 - [Root Me (CTFs)](https://www.root-me.org/?lang=en)
 
@@ -31,8 +31,7 @@ https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatshee
 - 
 
 ## Resource Repo's
-- (ROBUST) [s0cmonkey - Security Reference Guide]
-(https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/training/cyber-security-certifications)
+- [(ROBUST)s0cmonkey - Security Reference Guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/training/cyber-security-certifications)
 - [Vulnhub Resources](https://www.vulnhub.com/resources/)
 
 ## Reference
