@@ -25,8 +25,12 @@ Trainng Resources
 
 
 ## (PAID) Training
-- [Cloud-Guru](https://acloudguru.com) - Online traning courses (Linux, Cloud, Pentest, Ansible, Elastic, etc.)
-- [HackTheBox (HTB)](https://hackthebox.com) - CTF style Training (Pentesting)
+- [Cloud-Guru($35-47/mo)](https://acloudguru.com) - Online traning courses (Linux, Cloud, Pentest, Ansible, Elastic, etc.)
+- [HackTheBox ($0-20/mo)](https://hackthebox.com) - CTF style Training (Pentesting)
+- [Udemy](https://udemy.com)
+- [Cybrary($39/mo)](https://cybrary.it)
+- [Pluralsight($29-45/mo)](https://pluralsight.com)
+
 
 ## Resource Repo's
 - [(ROBUST)s0cmonkey - Security Reference Guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/training/cyber-security-certifications)
@@ -34,6 +38,7 @@ Trainng Resources
 
 ## Reference
 - [SIGMA Rules](https://sigma.socprime.com/#!/)
+- [IT Books(Not Completely Sorted yet!)](https://drive.google.com/drive/folders/1hrKBsvRilJCslNj1mnR4dwgLt2L95Kbh?usp=sharing)
 
 
 ## Needs Sorting
