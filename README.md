@@ -25,11 +25,11 @@ Trainng Resources
 
 
 ## (PAID) Training
-- [Cloud-Guru($35-47/mo)](https://acloudguru.com) - Online traning courses (Linux, Cloud, Pentest, Ansible, Elastic, etc.)
-- [HackTheBox ($0-20/mo)](https://hackthebox.com) - CTF style Training (Pentesting)
-- [Udemy](https://udemy.com)
-- [Cybrary($39/mo)](https://cybrary.it)
-- [Pluralsight($29-45/mo)](https://pluralsight.com)
+- [Cloud-Guru  ($35-47/mo)](https://acloudguru.com) - Online traning courses (Linux, Cloud, Pentest, Ansible, Elastic, etc.)
+- [HackTheBox  ($0-20/mo)](https://hackthebox.com) - CTF style Training (Pentesting)
+- [Udemy  (Free through BDE)](https://udemy.com)
+- [Cybrary  ($39/mo)](https://cybrary.it)
+- [Pluralsight  ($29-45/mo)](https://pluralsight.com)
 
 
 ## Resource Repo's
