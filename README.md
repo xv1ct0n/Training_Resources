@@ -27,7 +27,6 @@ Trainng Resources
 ## (PAID) Training
 - [Cloud-Guru](https://acloudguru.com) - Online traning courses (Linux, Cloud, Pentest, Ansible, Elastic, etc.)
 - [HackTheBox (HTB)](https://hackthebox.com) - CTF style Training (Pentesting)
-- 
 
 ## Resource Repo's
 - [(ROBUST)s0cmonkey - Security Reference Guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/training/cyber-security-certifications)
