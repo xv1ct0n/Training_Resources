@@ -38,8 +38,7 @@ Trainng Resources
 
 ## Reference
 - [SIGMA Rules](https://sigma.socprime.com/#!/)
-- [IT Books(Not Completely Sorted yet!)](https://drive.google.com/drive/folders/1hrKBsvRilJCslNj1mnR4dwgLt2L95Kbh?usp=sharing)
-
+- Books (Will add link once sorted/cleaned up)
 
 ## Needs Sorting
 - https://static.rainfocus.com/splunk/splunkconf18/sess/1522696002986001hj1a/finalPDF/Simulating-the-Adversary-Test-1244_1538791048709001YJnK.pdf
