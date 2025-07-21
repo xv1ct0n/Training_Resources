@@ -3,6 +3,7 @@ Trainng Resources
 ## Programming & AI
 ### Python
 [CoursEra Python Beginner Course](https://www.coursera.org/specializations/hands-on-python)
+[CodeAcademy - Python](https://www.codecademy.com/catalog/language/python)
 
 ## Automation /PowerBi 
 
