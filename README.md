@@ -1,5 +1,8 @@
 # Training_Resources
 Trainng Resources
+## Programming & AI
+
+## Automation /PowerBi 
 
 ## (Zeek)Cheatsheets / "Read-The-Docs"
 - [Zeek Log Cheatsheets (CoreLight)](https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatsheets-2.6.pdf)
