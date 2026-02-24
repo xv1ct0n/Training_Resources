@@ -13,17 +13,20 @@ Trainng Resources
 - [CoursEra Python Beginner Course](https://www.coursera.org/specializations/hands-on-python)
 - [CodeAcademy - Python](https://www.codecademy.com/catalog/language/python)
 - [Python Reddit Wiki](https://www.reddit.com/r/learnpython/wiki/index/)
-- https://www.practicepython.org
-- https://exercism.org/tracks/python/exercises
+- [Practice Python](https://www.practicepython.org)
+- [Python Exercises](https://exercism.org/tracks/python/exercises)
+- [Codewars](https://www.codewars.com/)
+- [Advanced Python for Data Science and Machine Learning](https://roadmap.sh/ai/course/advanced-python-for-data-science-and-machine-learning-1771892821214)
+
+### 
 - https://genepy.org/exercises/
-- https://www.codewars.com/
 - https://www.pythonmorsels.com/
 - https://py.checkio.org/
 - https://www.codingame.com/start/
 - https://codecombat.com/
 - https://github.com/karan/Projects-Solutions
 - https://github.com/practical-tutorials/project-based-learning#python
-- [Advanced Python for Data Science and Machine Learning] https://roadmap.sh/ai/course/advanced-python-for-data-science-and-machine-learning-1771892821214
+
 
 
 ## Automation /PowerBi 
