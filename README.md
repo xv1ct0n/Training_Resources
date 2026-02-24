@@ -20,6 +20,7 @@ Trainng Resources
 - https://codecombat.com/
 - https://github.com/karan/Projects-Solutions
 - https://github.com/practical-tutorials/project-based-learning#python
+- [Advanced Python for Data Science and Machine Learning] https://roadmap.sh/ai/course/advanced-python-for-data-science-and-machine-learning-1771892821214
 
 
 ## Automation /PowerBi 
