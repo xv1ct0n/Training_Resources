@@ -1,3 +1,6 @@
+# Link Format:
+- Format links as: [Link Text](URL "Title Text")
+
 # Training_Resources
 Trainng Resources
 
