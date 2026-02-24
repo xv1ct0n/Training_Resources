@@ -2,7 +2,8 @@
 Trainng Resources
 
 ## Training "Roadmaps"
-- https://roadmap.sh/ai/course
+- (2 Free, then PAID) https://roadmap.sh/ai/course
+- (FREE Community Courses/Roadmaps) https://roadmap.sh/ai/community
 
 ## Programming & AI
 ### Python
