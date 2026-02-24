@@ -1,6 +1,8 @@
 # Training_Resources
 Trainng Resources
 
+## Training "Roadmaps"
+- https://roadmap.sh/ai/course
 
 ## Programming & AI
 ### Python
@@ -65,3 +67,25 @@ Trainng Resources
 - https://github.com/0x4D31/awesome-threat-detection
 - https://github.com/guardicore/monkey
 - https://petri.com/populate-active-directory-with-test-user-accounts/
+- https://malwareunicorn.org/workshops/re101.html#0
+- https://techcommunity.microsoft.com/blog/itopstalkblog/latest-windows-server-training-on-ms-learn/2093132
+- https://drive.google.com/drive/folders/1ecNfJYUWhUc1YohjT4Ugq0vQ7rbb4hK8
+- https://cyberdefenders.org/blueteam-ctf-challenges/?type=ctf
+- https://tryhackme.com/login
+- https://www.giraffeacademy.com/
+- https://www.edx.org/
+- https://goalkicker.com/
+- https://pauljerimy.com/security-certification-roadmap/
+- https://academy.jetbrains.com/course/27941
+- https://plugins.jetbrains.com/plugin/18302-mastering-python-libraries--numpy?_cl=MTsxOzE7aTA4MEVGMXRERmJvUDlDblhkRWhrOVFqRW9lMjBFUVZRSGZaVjB0aHhnNEVmYmlTTXpwQ3YwZHhIek5Nc2JFcDs%3D
+- https://www.reddit.com/r/learnpython/comments/10rlgnu/recommended_free_online_python_courses/
+- https://futurecoder.io/
+- https://www.codewars.com/
+- https://training.dfirdiva.com/
+- https://dfirmadness.com/
+- https://stuxnet999.github.io/
+- https://aboutdfir.com/education/challenges-ctfs/
+- https://github.com/stuxnet999/MemLabs
+- https://www.appliedincidentresponse.com/resources/
+- https://www.malware-traffic-analysis.net/training-exercises.html
+- 
