@@ -46,6 +46,9 @@ Training Resources
 ## Active Directory
 - [Populate Active Directory with Test User Accounts](https://petri.com/populate-active-directory-with-test-user-accounts/)
 
+## (Arkime)Cheatsheets / "Read-The-Docs"
+- [Arkime Docs (Learn)](https://arkime.com/learn)
+  
 ## Blue Team Training
 - [Cyber Defenders Blue Team CTFs](https://cyberdefenders.org/blueteam-ctf-challenges/?type=ctf)
 
@@ -92,10 +95,9 @@ Training Resources
 ## Windows Trainings
 - [Windows Server 2019 Training Resource Blog](https://techcommunity.microsoft.com/blog/itopstalkblog/latest-windows-server-training-on-ms-learn/2093132)
 
-## (Arkime)Cheatsheets / "Read-The-Docs"
-- [Arkime Docs (Learn)](https://arkime.com/learn)
+---
 
-## (Free) Training
+## (Free) Misc. Training
 - (OLD) [Security Onion Essentials](https://www.youtube.com/playlist?list=PLljFlTO9rB155aYBjHw2InKkSMLuhWpxH)
 - [Chris Greer Network/Cyber Training](https://www.youtube.com/c/chrisgreer)
 - [CyberDefenders](https://cyberdefenders.org/)
@@ -105,23 +107,27 @@ Training Resources
 - [Free DFIR Training](https://training.dfirdiva.com/)
 - [Incident Response Resources](https://www.appliedincidentresponse.com/resources/)
 
-## (PAID) Training
+## (PAID) Misc. Training
 - [Cloud-Guru  ($35-47/mo)](https://acloudguru.com) - Online traning courses (Linux, Cloud, Pentest, Ansible, Elastic, etc.)
 - [HackTheBox  ($0-20/mo)](https://hackthebox.com) - CTF style Training (Pentesting)
 - [Udemy  (Free through BDE)](https://udemy.com)
 - [Cybrary  ($39/mo)](https://cybrary.it)
 - [Pluralsight  ($29-45/mo)](https://pluralsight.com)
 
-
+--- 
 ## Resource Repo's
 - [(ROBUST)s0cmonkey - Security Reference Guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/training/cyber-security-certifications)
 - [Vulnhub Resources](https://www.vulnhub.com/resources/)
 
-## Reference
+## References
 - [SIGMA Rules](https://sigma.socprime.com/#!/)
 - Books (Will add link once sorted/cleaned up)
 
+--- 
+## (PAID) Certifications with Trainings
+- [TCM Security Exams](https://certifications.tcm-sec.com/)
 
+  
 ## Needs Sorting
 - https://github.com/guardicore/monkey
 - https://dfirmadness.com/
