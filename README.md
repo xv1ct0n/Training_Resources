@@ -30,7 +30,6 @@ Training Resources
 - [Python Reddit Wiki](https://www.reddit.com/r/learnpython/wiki/index/)
 - [Practice Python](https://www.practicepython.org)
 - [Python Exercises](https://exercism.org/tracks/python/exercises)
-- [Codewars](https://www.codewars.com/)
 - [Advanced Python for Data Science and Machine Learning](https://roadmap.sh/ai/course/advanced-python-for-data-science-and-machine-learning-1771892821214)
 - [Data Visualization Course with Python](https://academy.jetbrains.com/course/27941)
 - [Mastering Python Libraries - Numpy](https://plugins.jetbrains.com/plugin/18302-mastering-python-libraries--numpy?_cl=MTsxOzE7aTA4MEVGMXRERmJvUDlDblhkRWhrOVFqRW9lMjBFUVZRSGZaVjB0aHhnNEVmYmlTTXpwQ3YwZHhIek5Nc2JFcDs%3D)
