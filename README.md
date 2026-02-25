@@ -36,7 +36,7 @@ Trainng Resources
 - [Zeek Docs](https://docs.zeek.org/en/master/about.html)
 
 ## (SANS) Cheatsheets & Posters
-- [SANS Posters] (https://www.sans.org/posters)
+- [SANS Posters](https://www.sans.org/posters)
 
 ## (Splunk)Docs / Training & Reference
 - [Splunk Docs - ALL](https://docs.splunk.com/Documentation)
