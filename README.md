@@ -36,7 +36,7 @@ Training Resources
 - [Reddit/Recommended Free online Python Training](https://www.reddit.com/r/learnpython/comments/10rlgnu/recommended_free_online_python_courses/)
 - [Learn Python from Scratch](https://futurecoder.io/)
 - [Python Exercises](https://genepy.org/exercises/) 
-- [Python TMorsels](https://www.pythonmorsels.com/)
+- [Python Morsels](https://www.pythonmorsels.com/)
 - [Python Training Game](https://py.checkio.org/)
 
 ### Coding Games
