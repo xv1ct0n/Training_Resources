@@ -35,6 +35,12 @@ Trainng Resources
 - [Zeek Log Cheatsheets (CoreLight)](https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatsheets-2.6.pdf)
 - [Zeek Docs](https://docs.zeek.org/en/master/about.html)
 
+## ICS/OT
+- [GITHUB/Industrial Network Protocals](https://github.com/Orange-Cyberdefense/awesome-industrial-protocols)
+
+## (INTEL471) Training
+- [Threat Hunting Workshop](https://go.intel471.com/workshop-1-begin-your-hunt-recording)
+
 ## (SANS) Cheatsheets & Posters
 - [SANS Posters](https://www.sans.org/posters)
 
