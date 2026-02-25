@@ -96,7 +96,7 @@ Training Resources
 - [Security Onion 2.3 Doc's](https://docs.securityonion.net/en/2.3/introduction.html)
 
 ## Threat Hunting and Detection Training
-- [GITHUB-Awesome-threat-detection/Threat Hunting Tools and Training Resources](https://github.com/0x4D31/awesome-threat-detection)
+- [GITHUB/Awesome-threat-detection-Threat Hunting Tools and Training Resources](https://github.com/0x4D31/awesome-threat-detection)
 
 ## TryHackMe
 - [TryHackMe Login](https://tryhackme.com/login)
