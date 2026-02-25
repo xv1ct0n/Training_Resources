@@ -12,8 +12,12 @@ Training Resources
 - (FREE Community Courses/Roadmaps) https://roadmap.sh/ai/community
 
 ## Programming & AI
+### AI
+- [Locally Hosted AI](https://lmstudio.ai/) - For those wanting to setup a local AI
+- [AI Workspace Assitant](https://www.notion.com/) - For those wanting AI summarizations and assitants
+- [AI Summarization and Notetaking](https://notebooklm.google/) - For AI assistant notetaking and document summarization
 
-## Programming Projects
+### Programming Projects
 - [GITHUB/Project Solutions](https://github.com/karan/Projects-Solutions)
 - [GITHUB/Project Based Learning](https://github.com/practical-tutorials/project-based-learning#python)
   
@@ -66,6 +70,9 @@ Training Resources
 
 ## ICS/OT
 - [GITHUB/Industrial Network Protocals](https://github.com/Orange-Cyberdefense/awesome-industrial-protocols)
+- [SANS Poster/The Differences Between ICS/OT and IT Security](https://www.sans.org/posters/the-differences-between-ics-ot-and-it-security)
+- [SANS Poster/Industrial Control System / OT Incident Response](https://www.sans.org/posters/industrial-control-system-cyber-incident-response)
+- 
 
 ## (INTEL471) Training
 - [Threat Hunting Workshop](https://go.intel471.com/workshop-1-begin-your-hunt-recording)
@@ -73,6 +80,8 @@ Training Resources
 ## Malware Training
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0)
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html)
+- [Zeltser/Reverse-Engineering Tips Poster](https://zeltser.com/media/docs/reverse-engineering-malicious-code-tips.pdf)
+- [SANS Poster/Malware Analysis and Reverse-Engineering Cheat Sheet](https://www.sans.org/posters/malware-analysis-and-reverse-engineering-cheat-sheet)
 
 ## (SANS) Cheatsheets & Posters
 - [SANS Posters](https://www.sans.org/posters)
@@ -126,7 +135,7 @@ Training Resources
 --- 
 ## (PAID) Certifications with Trainings
 - [TCM Security Exams](https://certifications.tcm-sec.com/)
-
+- [CompTIA](https://www.comptia.org/en-us/)
 ---
 
 ## Needs Sorting
