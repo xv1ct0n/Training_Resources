@@ -12,10 +12,11 @@ Training Resources
 - (FREE Community Courses/Roadmaps) https://roadmap.sh/ai/community
 
 ## Programming & AI
-### AI
+### AI / ML
 - [Locally Hosted AI](https://lmstudio.ai/) - For those wanting to setup a local AI
 - [AI Workspace Assitant](https://www.notion.com/) - For those wanting AI summarizations and assitants
 - [AI Summarization and Notetaking](https://notebooklm.google/) - For AI assistant notetaking and document summarization
+- [Data Science & ML](https://github.com/SecurityNik/Data-Science-and-ML/tree/main) - SEC595 Add'l Information
 
 ### Programming Projects
 - [GITHUB/Project Solutions](https://github.com/karan/Projects-Solutions)
